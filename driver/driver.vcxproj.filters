@@ -18,9 +18,4 @@
       <Extensions>inf;inv;inx;mof;mc;</Extensions>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <Inf Include="driver.inf">
-      <Filter>Driver Files</Filter>
-    </Inf>
-  </ItemGroup>  
 </Project>
